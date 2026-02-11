@@ -64,8 +64,8 @@ Features:
 
 ## ▶️ How to Run
 
-  pip install pandas matplotlib scikit-learn
-  python Student_Performance_Prediction.py
+  pip install pandas matplotlib scikit-learn.   
+  python Student_Performance_Prediction.py   
   Make sure StudentsPerformance.csv is in the same folder.
 
 ---
